@@ -1,4 +1,6 @@
 # Asteroids-in-Processing-3
+(link to official processing 3 download - https://processing.org/download/ )
+
 Sean Tyrrell
 
 Description:
